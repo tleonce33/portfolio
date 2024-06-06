@@ -6,7 +6,7 @@ This is the personal portfolio of Tanya Leonce's work to showcase her skills in 
 
 This data integration project will take a pipe delimited file and import it into a sample database.
 
-![Example dashboard image](example-dashboard.png)
+![data integration](data-integration.png)
 
 ## Data Architecture / Data Modeling
 
