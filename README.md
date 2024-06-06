@@ -6,13 +6,13 @@ This is the personal portfolio of Tanya Leonce's work to showcase her skills in 
 
 This data integration project will take a pipe delimited file and import it into a sample database.
 
-![data integration](data-integration.png)
+<img src="data-integration.png" alt="data integration" width="600"/>
 
 ## Data Architecture / Data Modeling
 
 This data modeling project was designed to build a database that can be used for testing purposes. The database was modeled in dbdiagram.io for the ERD diagram, then tables were created and populated with dummy data usinf Python Faker library.
 
-![Example ERD diagram](ProjectDB.png)
+<img src="ProjectDB.png" alt="Example ERD diagram" width="600"/>
 
 ## Lessons Learned
 
