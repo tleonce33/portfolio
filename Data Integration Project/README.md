@@ -31,4 +31,4 @@ This was an interesting project as the row terminator was [] and line break (CRL
 
 ## Contact
 
-Please feel free to contact me if you have any questions at: LinkedIn
+Please feel free to contact me if you have any questions at: [LinkedIn](https://www.linkedin.com/in/tanya-leonce/)
