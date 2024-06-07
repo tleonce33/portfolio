@@ -28,4 +28,4 @@ It's been a while since I modeled a database from scratch, so this was a fun lit
 
 ## Contact
 
-Please feel free to contact me if you have any questions at: LinkedIn
+Please feel free to contact me if you have any questions at: [LinkedIn](https://www.linkedin.com/in/tanya-leonce/)
