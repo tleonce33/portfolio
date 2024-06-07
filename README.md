@@ -4,7 +4,8 @@ This is the personal portfolio of Tanya Leonce's work to showcase her skills in 
 
 ## Data Integration Project
 
-This data integration project will take a pipe delimited file and import it into a sample database.
+This data integration project will take a pipe delimited file and import it into a sample database.<br>
+View more details here: [Data Integration Project](https://github.com/tleonce33/portfolio/blob/main/Data%20Integration%20Project/README.md)
 
 <img src="data-integration.png" alt="data integration" width="600"/>
 
