@@ -11,7 +11,7 @@ View more details here: [Data Integration Project](https://github.com/tleonce33/
 
 ## Data Architecture / Data Modeling
 
-This data modeling project was designed to build a database that can be used for testing purposes. The database was modeled in dbdiagram.io for the ERD diagram, then tables were created and populated with dummy data usinf Python Faker library.
+This data modeling project was designed to build a database that can be used for testing purposes. The database was modeled in dbdiagram.io for the ERD diagram, then tables were created and populated with dummy data usinf Python Faker library.<br>
 View more details here: [Data Modeling Project](https://github.com/tleonce33/portfolio/blob/main/Data%20Model%20Project/README.md#data-modeling-project)
 
 <img src="ProjectDB.png" alt="Example ERD diagram" width="600"/>
