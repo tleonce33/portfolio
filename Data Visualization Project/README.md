@@ -2,6 +2,8 @@
 
 This data visualization project was part of the final project for an Information Visualization class to complete my Masters in Data Science.
 
+<img src="Exec Dashboard Tanya Leonce.png" alt="data visualization" width="600"/>
+
 ## Overview
 
 The sample file provided is on Regional Sales data that was analyzed and produced a dashboard and storyboard. Provided is the image of the Executive Dashboard that was created and the storyboard. The Tableau Desktop file was not published publicly as this is proprietary for the course, but if you would like a copy of the Tableau (twb) file, then please let me know.
