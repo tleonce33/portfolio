@@ -1,6 +1,13 @@
 # Tanya Leonce's Personal Project Portfolio
 
-This is the personal portfolio of Tanya Leonce's work to showcase her skills in the data space. You will find a variety of personal projects mainly focused on SQL and database skills.
+This is the personal portfolio of Tanya Leonce's work to showcase her skills in the data space. You will find a variety of personal projects mainly focused on Data Visualization, Integration, and SQL database skills.
+
+## Data Visualization Project
+
+This data visualization project will take you through a journey on visualizing Regional Sales data through a dashboard and storyboard<br>
+View more details here: [Data Visualization Project](https://github.com/tleonce33/portfolio/blob/main/Data%20Visualization%20Project/README.md)
+
+<img src="Exec Dashboard Tanya Leonce.png" alt="data visualization" width="600"/>
 
 ## Data Integration Project
 
