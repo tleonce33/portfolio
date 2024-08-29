@@ -2,6 +2,8 @@
 
 This data modeling project an ERD diagram was created for a 3NF normalized database to use for project purposes.
 
+<img src="ProjectDB.png" alt="Example ERD diagram" width="600"/>
+
 ## Overview
 
 This database is for a case management application database, it was initially designed for training purposes and for practice in using Python Faker library to generate dummy data to use to populate this database.
