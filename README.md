@@ -5,13 +5,15 @@ This is the personal portfolio of Tanya Leonce's work to showcase her skills in 
 ## Data Engineering Project
 
 This data engineering project will outline the architecture to build an AWS data pipeline using the free tier services and visualize the results in Grafana.<br>
+
 View more details here: [Data Engineering Project](https://github.com/tleonce33/portfolio/blob/main/Data%20Visualization%20Project/README.md)
 
 <img src="de_project_drawio.png" alt="architecture diagram" width="600"/>
 
 ## Data Visualization Project
 
-This data visualization project will take you through a journey on visualizing Regional Sales data through a dashboard and storyboard<br>
+This data visualization project will take you through a journey on visualizing Regional Sales data through a dashboard and storyboard.<br>
+
 View more details here: [Data Visualization Project](https://github.com/tleonce33/portfolio/blob/main/Data%20Visualization%20Project/README.md)
 
 <img src="Exec Dashboard Tanya Leonce.png" alt="data visualization" width="600"/>
@@ -19,6 +21,7 @@ View more details here: [Data Visualization Project](https://github.com/tleonce3
 ## Data Integration Project
 
 This data integration project will take a pipe delimited file and import it into a sample database.<br>
+
 View more details here: [Data Integration Project](https://github.com/tleonce33/portfolio/blob/main/Data%20Integration%20Project/README.md)
 
 <img src="data-integration.png" alt="data integration" width="600"/>
@@ -26,6 +29,7 @@ View more details here: [Data Integration Project](https://github.com/tleonce33/
 ## Data Architecture / Data Modeling
 
 This data modeling project was designed to build a database that can be used for testing purposes. The database was modeled in dbdiagram.io for the ERD diagram, then tables were created and populated with dummy data usinf Python Faker library.<br>
+
 View more details here: [Data Modeling Project](https://github.com/tleonce33/portfolio/blob/main/Data%20Model%20Project/README.md#data-modeling-project)
 
 <img src="ProjectDB.png" alt="Example ERD diagram" width="600"/>
