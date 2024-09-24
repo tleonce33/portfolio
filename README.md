@@ -2,6 +2,13 @@
 
 This is the personal portfolio of Tanya Leonce's work to showcase her skills in the data space. You will find a variety of personal projects mainly focused on Data Visualization, Integration, and SQL database skills.
 
+## Data Engineering Project
+
+This data engineering project will outline the architecture to build an AWS data pipeline using the free tier services and visualize the results in Grafana.<br>
+View more details here: [Data Engineering Project](https://github.com/tleonce33/portfolio/blob/main/Data%20Visualization%20Project/README.md)
+
+<img src="de_project_drawio.png" alt="architecture diagram" width="600"/>
+
 ## Data Visualization Project
 
 This data visualization project will take you through a journey on visualizing Regional Sales data through a dashboard and storyboard<br>
